@@ -1,0 +1,17 @@
+.button{
+    font-size: 1rem;
+    cursor: pointer;
+    border: none;
+    border: none;
+    outline: none;
+    padding-inline: 1.5rem;
+    padding-block: 1rem;
+    border-radius: 0.5rem;
+    background-color: #4a68ffd6;
+    color: white;
+}
+button:active{
+    background-color: #2946dad6;
+
+    scale:0.95;
+}
