@@ -30,8 +30,7 @@ export default function FaceExpression({ onClick = () => { } }) {
         console.log(expression)
         onClick(expression)
     }
-
-
+    
     return (
         <div style={{ textAlign: "center" }}>
             <video
